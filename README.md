@@ -7,6 +7,8 @@
 
 <div align="center">
   
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20Welcome!%20&&animation=blink)
+  
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=JizeroK&show_icons=true&theme=radical)](https://github.com/JizeroK)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JizeroK)](https://github.com/JizeroK/github-readme-stats)
