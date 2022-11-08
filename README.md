@@ -1,8 +1,4 @@
 <!--<image src='image/불꽃.gif' width =200 height=200/>-->
-
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20Welcome!%20&&animation=blink)
-
-
 <!--[![*'s github stats](https://github-readme-stats.vercel.app/api?username=JizeroK)](https://github.com/KimJiiYeong)-->
 
 <div align="center">
